@@ -64,5 +64,15 @@ Projet réalisé dans le cadre du cours **"De DATA SCIENCE"**. L'objectif est d'
 - Les **artistes comme Taylor Swift, Bad Bunny, Olivia Rodrigo** reviennent fréquemment.
 - Les tonalités **A Major, C# Major** sont souvent associées aux chansons populaires.
 
-## 📁 Arborescence du projet
+
+## ✅ À faire / améliorations possibles
+
+- Ajouter un modèle de régression pour prédire le nombre de streams exact.
+- Enrichir le dataset avec des informations géographiques sur les artistes.
+- Publier un dashboard interactif avec **Streamlit** ou **Power BI**.
+
+## 👩🏽‍💻 Réalisé par: **Daphné Moesha Fotso** 
+ 
+Master 2 Big Data & IA – ESTIAM Lyon  
+[LinkedIn](https://www.linkedin.com/in/daphne-fotso) – [GitHub](https://github.com/)
 
